@@ -14,6 +14,11 @@ This Excel-based data analysis project focuses on uncovering sales insights from
 - **Data Cleaning**: Removed duplicates, corrected formatting, handled missing values
 - **Charts & Visualizations**: Bar charts, line graphs, and pie charts
 
+## 📸 Dashboard Preview
+
+![Dashboard Screenshot](https://github.com/GloriaCodes-datanalyst/coffee-sales-analysis/blob/main/Coffee%20Sales%20Dashboard.PNG)
+
+
 ## 💡 Key Insights
 
 - Total sales increased steadily over the period analyzed.
